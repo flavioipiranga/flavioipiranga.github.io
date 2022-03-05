@@ -72,6 +72,10 @@ defaults:
       read_time: true
       comments: true
 
+collections:
+  saga-device-driver-posts:
+    output: true
+
 comments:
   provider: "disqus"
   disqus:
