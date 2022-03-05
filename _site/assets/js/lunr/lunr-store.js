@@ -4,4 +4,4 @@ var store = [{
         "tags": [],
         "url": "/jekyll/update/2021/11/29/welcome-to-jekyll.html",
         "teaser": null
-      }]
+      },]
